@@ -1,6 +1,6 @@
 # StarWas
 
 
-![./Tiefighter.png](Misterio demais!)
+![./imagem.png]
 
 Isso aqui serve de Exemplo
